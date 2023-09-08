@@ -1,0 +1,36 @@
+
+table {
+  font-size: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+}
+
+table th {
+  background: #fec107;
+  border: 2px solid #fec107;
+  padding: 17px 70px;
+}
+
+table td {
+  background: #3b2b6c;
+  color: white;
+  border: 2px solid #fec107;
+  padding: 15px;
+}
+
+table .yellow-dark {
+  background: #e5ae30;
+}
+
+div input {
+  width: 202px;
+}
+
+div button {
+  width: 210px;
+  margin: 10px 0 10px 0;
+}
